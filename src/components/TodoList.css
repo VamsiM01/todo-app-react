@@ -1,0 +1,23 @@
+.complete {
+    text-decoration : line-through;
+}
+
+.li-container{
+    margin: 5px;
+    padding : 5px;
+    border-radius: 5px;
+    background-color : white;   
+    display : flex;
+    justify-content: right;
+}
+
+.list-item {
+    margin : 5px;
+    padding : 5px;
+
+    list-style: none;
+}
+
+.left{
+    margin-right: auto;
+}
